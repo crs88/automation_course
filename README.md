@@ -1,2 +1,2 @@
 # automation_course
- curs auto
+ curs automation
